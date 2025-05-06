@@ -14,9 +14,8 @@ Flashboard Central is a web application designed for managing and displaying com
 *   **Genkit**: A framework for developing Generative AI applications
 
 ## Setup
-
-Follow these steps to set up the project locally:
-
-1.  **Clone the Repository**:
-
+Follow these step-by-step instructions to get the project up and running on your local machine:
+1.  **Clone the Repository**
+    *   Open your terminal or command prompt.
+    *   Use the `git clone` command to clone the repository to your local machine. Replace `[repository-url]` with the actual URL of the repository:
 
